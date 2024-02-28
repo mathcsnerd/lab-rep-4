@@ -36,3 +36,5 @@ I copied-pasted the `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Special Keys: `<Enter` + `<Enter>` + `<Enter>`
 I hit enter after `add`, `commit`, `push`. Also, my message was `"W"`.
+
+![Image](final)
