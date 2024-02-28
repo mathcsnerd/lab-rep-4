@@ -38,3 +38,5 @@ Special Keys: `<Enter` + `<Enter>` + `<Enter>`
 I hit enter after `add`, `commit`, `push`. Also, my message was `"W"`.
 
 ![Image](final)
+
+![Image](W)
